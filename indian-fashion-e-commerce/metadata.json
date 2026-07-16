@@ -1,0 +1,6 @@
+{
+  "name": "Indian Fashion E-Commerce",
+  "description": "A premium Indian Fashion E-Commerce website selling Men's, Women's, and Kids' apparel, featuring advanced filters, wishlist, cart, recently viewed items, dark mode, and an interactive shopping experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
